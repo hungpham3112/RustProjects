@@ -1,5 +1,3 @@
 fn main() {
-    println!("Hello, world!");
-    println!("hwll");
-    return Option(None);
+    println!("Hello, world!f fasd");
 }
