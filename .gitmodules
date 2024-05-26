@@ -1,0 +1,3 @@
+[submodule "Application/text_summarizer"]
+	path = Application/text_summarizer
+	url = https://github.com/hungpham3112/text_summarizer
